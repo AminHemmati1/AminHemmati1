@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Amin Hemmati!</h1>
 
 <p align="center">
-  A passionate <strong>Entry Level Data Sientict/Interest</strong> from <strong>Wiesbaden, Germany</strong>. Welcome to my GitHub profile!
+  A passionate <strong>Entry Level Data Sientict</strong> from <strong>Wiesbaden, Germany</strong>. Welcome to my GitHub profile!
 </p>
 
 ## 🌟 About Me
