@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello, I'm Amin Hemmati!</h1>
 
 <p align="center">
-  A passionate <strong>Entry Level Data Sientict</strong> from <strong>Wiesbaden, Germany</strong>. Welcome to my GitHub profile!
+  A passionate <strong>Entry Level Data Scientist</strong> from <strong>Wiesbaden, Germany</strong>. Welcome to my GitHub profile!
 </p>
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning <strong>Data Sientist ana Data Anaysing</strong>
+- 🌱 I’m currently learning <strong>Data Scientist and Data Analyzing</strong>
 - 💡 I'm interested in <strong>Machine Learning</strong>
 - 👯 I’m looking to collaborate on <strong>Open Source Projects/Interesting Ideas</strong>
 - 📫 How to reach me: <strong>hemmati.amin@gmail.com</strong>
